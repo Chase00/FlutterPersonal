@@ -11,7 +11,7 @@ void main() => runApp(
       body: Center(
         child: new ListView(
           children: [
-            Image(image: AssetImage('images/shaw.PNG')),
+            Image(image: AssetImage('images/shaw.png')),
             Image(image: NetworkImage('https://images.pexels.com/photos/956981/milky-way-starry-sky-night-sky-star-956981.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940')),
           ],
         ),
